@@ -7,7 +7,6 @@
 - Student at École Polytechnique
 - Research on GPU Mesh shaders with Sherbrooke University
 
-#### Check out my portfolio :
-- https://www.notion.so/alexfoulon/Hi-I-m-Alex-8f0e0459bf3542b8aa3b2d8e1d56bd45
+#### Check out my portfolio : https://www.notion.so/alexfoulon/Hi-I-m-Alex-8f0e0459bf3542b8aa3b2d8e1d56bd45
 
 Feel free to reach out !
