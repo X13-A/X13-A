@@ -3,7 +3,7 @@
 A creative engineer with a deep interest in rendering research, GPU programming and machine learning.
 
 #### Some of my current work :
-- Working on graphics R&D at AMD
+- Graphics R&D at AMD
 - Student at École Polytechnique
 - Research on GPU Mesh shaders with Sherbrooke University
 
