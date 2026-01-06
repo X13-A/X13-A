@@ -1,6 +1,6 @@
 ## Hello, I'm Alex
 
-A creative engineer with a deep interest in rendering research, GPU computing and machine learning.
+A creative engineer with a deep interest in rendering research, GPU programming and machine learning.
 
 #### Some of my current activities :
 - Working on graphics R&D at AMD
