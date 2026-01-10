@@ -8,7 +8,7 @@ A creative engineer with a deep interest in rendering research, GPU programming 
 - Research on GPU Mesh shaders with Sherbrooke University
 
 #### Ongoing projects :
-- Vulkan path tracer
+- Vulkan real-time ray-tracer
 - Deep learning framework from scratch
 
 Check out my portfolio : https://www.notion.so/alexfoulon/Hi-I-m-Alex-8f0e0459bf3542b8aa3b2d8e1d56bd45
