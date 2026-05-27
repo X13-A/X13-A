@@ -5,7 +5,7 @@ A creative engineer with a deep interest in rendering research, GPU programming 
 #### Some of my current work :
 - Graphics R&D at AMD
 - Student at École Polytechnique
-- Research on GPU Mesh shaders with Sherbrooke University
+- Research on real-time procedural vegetation on the GPU with Sherbrooke University
 
 #### Ongoing projects :
 - Vulkan real-time ray-tracer
